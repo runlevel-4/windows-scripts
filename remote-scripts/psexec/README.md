@@ -1,1 +1,2 @@
-
+Add thes files to your C:\Windows\System32 directory...
+...You will have to accept the EULA on first time use of psexec command.
